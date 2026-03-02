@@ -1,0 +1,15 @@
+# robots.txt for Knighty Builds
+User-agent: *
+Allow: /
+
+# Disallow admin and API routes
+Disallow: /admin/
+Disallow: /api/
+
+# Disallow private user pages
+Disallow: /settings
+Disallow: /my-builds
+Disallow: /checkout
+
+# Sitemap
+Sitemap: https://knightybuilds.com/sitemap.xml

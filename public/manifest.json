@@ -1,0 +1,17 @@
+{
+  "name": "Knighty Builds",
+  "short_name": "Knighty Builds",
+  "description": "Premium Minecraft Builds & Schematic Downloads",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/knighty.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
