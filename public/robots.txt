@@ -1,4 +1,4 @@
-# robots.txt for Knighty Builds
+# robots.txt for KnightyBuilds
 User-agent: *
 Allow: /
 
